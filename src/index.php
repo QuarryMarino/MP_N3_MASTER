@@ -34,10 +34,7 @@
            
            
            
-           <?php  if (isset($loginError)) {
-                echo $loginError;
-            } ?>
-
+          
 
         </form>
         <p>or continue with these social profile</p>
